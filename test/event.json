@@ -1,0 +1,21 @@
+{
+    "version": "2.0",
+    "routeKey": "POST /score-resume",
+    "rawPath": "/score-resume",
+    "rawQueryString": "",
+    "headers": {
+      "content-type": "application/x-www-form-urlencoded",
+      "host": "localhost"
+    },
+    "requestContext": {
+      "http": {
+        "method": "POST",
+        "path": "/score-resume",
+        "sourceIp": "127.0.0.1",
+        "userAgent": "curl"
+      }
+    },
+    "body": "resume_text=I+am+a+Python+developer+with+3+years+of+experience.&job_description=We+are+looking+for+an+experienced+Python+developer+with+FastAPI+skills.&target_skills=Python&target_skills=FastAPI&target_skills=REST",
+    "isBase64Encoded": false
+  }
+  

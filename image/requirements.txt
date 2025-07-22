@@ -1,0 +1,8 @@
+fastapi
+mangum
+uvicorn
+pydantic
+openai
+PyPDF2
+openai-agents
+python-dotenv
